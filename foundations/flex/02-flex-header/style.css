@@ -1,6 +1,8 @@
 .header  {
   font-family: monospace;
   background: papayawhip;
+  display: flex;
+  gap: 10px;
 }
 
 .logo {
@@ -9,6 +11,8 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
+  /* What I added */
+  align-self: center;
 }
 
 ul {
