@@ -54,3 +54,8 @@ ul {
   gap: 16px;
   margin-right: auto;
 }
+
+.noti {
+  display: flex;
+  gap: 16px;
+}
