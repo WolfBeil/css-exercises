@@ -52,4 +52,5 @@ ul {
   /* What I added */
   display: flex;
   gap: 16px;
+  margin-right: auto;
 }
