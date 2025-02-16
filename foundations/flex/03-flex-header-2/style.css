@@ -51,4 +51,5 @@ ul {
   list-style-type: none;
   /* What I added */
   display: flex;
+  gap: 16px;
 }
