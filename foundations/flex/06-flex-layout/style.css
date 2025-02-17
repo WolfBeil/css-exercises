@@ -32,11 +32,12 @@ input {
   justify-content: space-between;
   /* border: 1px solid black; */
   align-items: flex-start;
-  margin-bottom: auto;
+  /* margin-bottom: auto; */
   padding: 5px;
 }
 
 .content {
+  flex: 1;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -52,7 +53,7 @@ button {
   display: flex;
   justify-content: space-between;
   /* border: 1px solid black; */
-  margin-top: auto;
+  /* margin-top: auto; */
   padding: 5px;
   background-color: #eeeeee;
 }
