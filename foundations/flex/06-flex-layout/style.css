@@ -33,6 +33,7 @@ input {
   border: 1px solid black;
   align-items: flex-start;
   margin-bottom: auto;
+  padding: 10px;
 }
 
 .footer {
@@ -40,4 +41,10 @@ input {
   justify-content: space-between;
   border: 1px solid black;
   margin-top: auto;
+  padding: 10px;
 }
+
+/* .right-links, .left-links {
+  display: flex;
+  gap: 30px;
+} */
