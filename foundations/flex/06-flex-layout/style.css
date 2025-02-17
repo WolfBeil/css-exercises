@@ -44,7 +44,15 @@ input {
   padding: 10px;
 }
 
-/* .right-links, .left-links {
+a {
+  text-decoration-line: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.right-links, .left-links {
   display: flex;
-  gap: 30px;
-} */
+  gap: 20px;
+}
