@@ -24,13 +24,18 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: auto;
 }
 
 .sidebar {
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
+  display: flex;
+  flex: 1;
+}
+
+.content {
+  display: flex;
 }
 
 .card {
