@@ -42,10 +42,12 @@ input {
   border: 1px solid black;
   margin-top: auto;
   padding: 10px;
+  background-color: #eeeeee;
 }
 
 a {
   text-decoration-line: none;
+  color: darkslategray;
 }
 
 ul {
